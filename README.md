@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeliciaCoding
 - 👀 I’m interested in data analysis / software development 
-- 🌱 I’m currently learning python3
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
