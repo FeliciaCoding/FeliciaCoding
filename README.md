@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FeliciaCoding
 - 👀 I’m interested in data analysis / software development 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++ / C / Java
+
 
 <!---
 FeliciaCoding/FeliciaCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
