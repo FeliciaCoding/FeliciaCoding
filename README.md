@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeliciaCoding
 - 👀 I’m interested in data analysis / software development 
-- 🌱 I’m currently learning C++ / C / Java
+- 🌱 Currently building expertise in Azure | Python | PostgreSQL | AWS | Java | C++
 
 
 <!---
